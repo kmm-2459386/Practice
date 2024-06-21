@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ClosedHash.h" />
+    <ClInclude Include="IntQueue.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClosedHash.cpp" />
+    <ClCompile Include="IntQueue.cpp" />
+    <ClCompile Include="IntQueueSampleMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
