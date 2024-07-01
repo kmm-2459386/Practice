@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SumOfN_PrintExpression.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
+    <None Include="..\..\..\..\..\Downloads\OneDrive_1_2024-6-27 (1)\20240613_宿題_1\20240613_q018.cs">
+      <Filter>リソース ファイル</Filter>
+    </None>
   </ItemGroup>
 </Project>
