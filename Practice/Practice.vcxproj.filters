@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StringAsArray_Test.cpp">
+    <ClCompile Include="SwapPointerMacro.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
