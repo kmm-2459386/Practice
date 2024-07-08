@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LinkedList.cpp" />
-    <ClCompile Include="LinkedListSample.cpp" />
-    <ClCompile Include="Member.cpp" />
-    <ClCompile Include="Member.h.cpp" />
+    <ClInclude Include="ArrayLinkedList.h" />
+    <ClInclude Include="Member.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LinkedList.h" />
+    <ClCompile Include="ArrayLinkedList.cpp" />
+    <ClCompile Include="ArrayLinkedListSample.cpp" />
+    <ClCompile Include="Member.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
