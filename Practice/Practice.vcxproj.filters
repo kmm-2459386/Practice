@@ -18,7 +18,7 @@
     <ClInclude Include="Member.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="CircleDoubleLinkedList.h">
+    <ClInclude Include="LinkedListSample_Retrieve_LinkedList.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
@@ -26,10 +26,10 @@
     <ClCompile Include="Member.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="CircleDoubleLinkedList.cpp">
+    <ClCompile Include="LinkedListSample_Retrieve_LinkedList.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="CircleDoubleLinkedListSample.cpp">
+    <ClCompile Include="LinkedListSample_Retrieve_LinkedListSample_Retrieve.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

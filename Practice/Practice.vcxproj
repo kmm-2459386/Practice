@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CircleDoubleLinkedList.h" />
+    <ClInclude Include="LinkedListSample_Retrieve_LinkedList.h" />
     <ClInclude Include="Member.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CircleDoubleLinkedList.cpp" />
-    <ClCompile Include="CircleDoubleLinkedListSample.cpp" />
+    <ClCompile Include="LinkedListSample_Retrieve_LinkedList.cpp" />
+    <ClCompile Include="LinkedListSample_Retrieve_LinkedListSample_Retrieve.cpp" />
     <ClCompile Include="Member.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
