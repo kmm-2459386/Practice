@@ -18,7 +18,7 @@
     <ClInclude Include="Member.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="LinkedListSample_Retrieve_LinkedList.h">
+    <ClInclude Include="BinaryTree.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
@@ -26,10 +26,10 @@
     <ClCompile Include="Member.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="LinkedListSample_Retrieve_LinkedList.cpp">
+    <ClCompile Include="BinaryTree.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="LinkedListSample_Retrieve_LinkedListSample_Retrieve.cpp">
+    <ClCompile Include="BinaryTreeSample.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
