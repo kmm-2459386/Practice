@@ -18,7 +18,7 @@
     <ClInclude Include="Member.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="Binary_Tree.h">
+    <ClInclude Include="MinMax_BinaryTree.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
@@ -26,10 +26,10 @@
     <ClCompile Include="Member.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="Binary_Tree.cpp">
+    <ClCompile Include="MinMax_BinaryTree.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="BinaryTreeSample_PrintReverse.cpp">
+    <ClCompile Include="BinaryTreeSample_MinMax.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

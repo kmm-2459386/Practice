@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Binary_Tree.h" />
     <ClInclude Include="Member.h" />
+    <ClInclude Include="MinMax_BinaryTree.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BinaryTreeSample_PrintReverse.cpp" />
-    <ClCompile Include="Binary_Tree.cpp" />
+    <ClCompile Include="BinaryTreeSample_MinMax.cpp" />
     <ClCompile Include="Member.cpp" />
+    <ClCompile Include="MinMax_BinaryTree.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
